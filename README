@@ -1,0 +1,16 @@
+#Aim
+#####To develop a web based form to save and retrieve cv of a student
+
+#Prerequisites
+* Knowledge of HTML
+* Knowledge of PHP(and local server if you are developing it in local pc)
+* Basics about JSON(JavaScript Object Notation
+
+###Additional Notes
+*create two folders "images" & "cv" in the same location where you store the php files.
+*File/image upload is also possible in this project 
+
+'''
+Developer: Adeeb Abdul Salam
+email: adeebnabdulsalam@gmail.com
+'''
